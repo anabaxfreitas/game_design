@@ -1,5 +1,5 @@
 # Art for Games 
-[Coursera - Specialization Course - Michigan University](https://www.coursera.org/specializations/art-for-games)
+[Coursera - Specialization Course - Michigan State University](https://www.coursera.org/specializations/art-for-games)
 ## Pixel Art For Video Games
 * Module 1
 
