@@ -3,8 +3,8 @@
 ## Pixel Art For Video Games
 * Module 1
 
-    * First Assignment: Create a Pirate Barril    
-        1st Attempt | AI grade= 4/7 | According to AI lacks proper lighting and form of a pirate barril
+    * First Assignment: Create a Pirate Barrel    
+        1st Attempt | AI grade= 4/7 | According to AI lacks proper lighting and form of a pirate barrel
         
         ![](.\barrel.png)
         
